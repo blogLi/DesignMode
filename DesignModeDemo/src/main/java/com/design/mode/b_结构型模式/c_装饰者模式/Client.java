@@ -14,7 +14,7 @@ public class Client {
         System.out.println(food.getDesc()+":"+food.cost());
         //再加一个培根
         food=new Bacon(food);
-        System.out.println(food.getDesc()+":1"+food.cost());
+        System.out.println(food.getDesc()+":"+food.cost());
 
     }
 }
