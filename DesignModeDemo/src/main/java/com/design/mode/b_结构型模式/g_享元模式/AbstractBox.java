@@ -2,6 +2,7 @@ package com.design.mode.b_结构型模式.g_享元模式;
 
 /**
  * 俄罗斯方块
+ * 抽象享元角色（Flyweight）
  */
 public abstract class AbstractBox {
 
